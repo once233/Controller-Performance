@@ -10,4 +10,6 @@
 ## PID speed track
 [![Watch the video](https://github.com/once233/controller-performance/blob/main/image/pidSpeedTrack.png)](https://github.com/user-attachments/assets/51eb9bd7-7e2b-485d-b305-e11a1c6853f9)
 
+## smooth of grid-plan
+![smooth](https://github.com/once233/Planner-Controller-Performance/blob/main/image/smooth.png)
 
