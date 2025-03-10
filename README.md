@@ -13,6 +13,9 @@
 ## bezier brake
 [![贝塞尔曲线刹车](https://github.com/once233/controller-performance/blob/main/image/pidSpeedTrack.png)](https://github.com/user-attachments/assets/0b1c5481-40a6-4f4b-9019-563b36a25d00)
 
+## mpc brake
+[![在线MPC刹车](https://github.com/once233/controller-performance/blob/main/image/pidSpeedTrack.png)](https://github.com/user-attachments/assets/a40ed385-39c6-4803-8f59-634690f024f6)
+
 
 ## smooth of grid-plan
 ![栅格路径平滑](https://github.com/once233/Planner-Controller-Performance/blob/main/image/smooth.png)
